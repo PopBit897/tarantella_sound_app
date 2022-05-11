@@ -1,2 +1,19 @@
-# tarantella_sound_app
-Play list musicale del carro tarantella sound 
+# tarantella_sound_app descrizione :
+Play list musicale S.Antuon del carro Tarantella sound ,
+questo app e stato realizato con kodular.io(IDE a codice di Blocchi).
+Questo progetto e open source cio si puo scaricare gratis e anche a chi vuole aiutare a miglirare l'app e alcuni errori ,
+non necesita alcuna conoscenza su un linguaggio di programmazione es(java,python,c#,javascript ecc..),
+basta una piccola conoscenza informatica e logica e anche un po di inglese ,se non sai l'inglese basta usare google translet .
+Spero che qusto progetto  si  al vostro gradimento e interesse .
+# Riconoscimento:
+capo progetto : Pop Mario Denis.
+Autore e programmatore : Pop Mario Denis.
+fonte audio vecchio(old): Antoni Nacca .
+Fonte audio nuova: Pop Mario Denis.
+Nell app e presentte il logo di RDAITA2(Red Anonymus ITA 2021),
+e anche di Gold Shine .
+# licenza MIT :
+La licenza MIT serve a con loro che modificherano il codice a blocchi.
+# ATTENZIONE:
+Il progetto e sotto copyright(c)
+

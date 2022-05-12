@@ -26,6 +26,7 @@ e anche di Gold Shine .
 per suportto contatta al email:
 
 tarantellahelp@hotmail.com
+
 per aiutarmi nel progetto:
 
 rda46@gmail.com 

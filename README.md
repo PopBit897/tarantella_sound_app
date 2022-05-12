@@ -22,6 +22,13 @@ Fonte audio nuova: Pop Mario Denis.
 Nell app e presentte il logo di RDAITA2(Red Anonymus ITA 2021),
 
 e anche di Gold Shine .
+# CONTATTI :
+per suportto contatta al email:
+
+tarantellahelp@hotmail.com
+per aiutarmi nel progetto:
+
+rda46@gmail.com 
 # licenza MIT :
 La licenza MIT serve a con loro che modificherano il codice a blocchi.
 # ATTENZIONE:

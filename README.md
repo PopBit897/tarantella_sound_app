@@ -1,5 +1,5 @@
 # tarantella_sound_app descrizione :
-Play list musicale S.Antuon del carro Tarantella sound ,
+Play list musicale S.Antonio del carro Tarantella sound ,
 
 questo app e stato realizato con kodular.io(IDE a codice di Blocchi).
 
@@ -36,7 +36,7 @@ La licenza MIT serve a con loro che modificherano il codice a blocchi.
 Il progetto e sotto copyright(c)
 
 Copyright (c) 2022 RedAnonymusITA2021 
-Per scaricare l'app clicca sul plusante download qui sotto:
+
 # DOWNLOAD 
 Clicca su download per sacricare l'app:
 

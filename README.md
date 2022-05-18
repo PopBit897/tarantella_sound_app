@@ -19,6 +19,8 @@ fonte audio vecchio(old): Antoni Nacca .
 
 Fonte audio nuova: Pop Mario Denis.
 
+Server :Pop Mario Denis.
+
 Nell app e presentte il logo di RDAITA2(Red Anonymus ITA 2021),
 
 e anche di Gold Shine .

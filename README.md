@@ -38,4 +38,4 @@ Il progetto e sotto copyright(c)
 Copyright (c) 2022 RedAnonymusITA2021 
 Per scaricare l'app clicca sul plusante download qui sotto:
 
-a href="https://sourceforge.net/projects/tarantella-sound-app/files/latest/download"><img alt="Download tarantella_sound_app" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+ [![Download tarantella_sound_app](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/tarantella-sound-app/files/latest/download)
